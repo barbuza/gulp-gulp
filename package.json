@@ -1,5 +1,5 @@
 {
-  "name": "gulp-template",
+  "name": "gulp-gulp",
   "version": "0.0.1",
   "devDependencies": {
     "es6ify": "~0.4.8",
